@@ -1,0 +1,351 @@
+Row ID,Order Date,Segment,Category,Sub-Category,Sales,Quantity,Discount,Profit,Shipping Cost,Order Priority
+1,02-10-2015,Consumer,Office Supplies,Labels,13.08,3,0,4.56,2.033,Medium
+2,15-10-2013,Consumer,Furniture,Furnishings,252.16,8,0,90.72,13.449,Medium
+3,15-10-2013,Consumer,Furniture,Bookcases,193.28,2,0,54.08,9.627,Medium
+4,15-10-2013,Consumer,Office Supplies,Binders,35.44,4,0,4.96,1.371,Medium
+5,15-10-2013,Consumer,Office Supplies,Art,71.6,2,0,11.44,3.787,Medium
+6,15-10-2013,Consumer,Office Supplies,Envelopes,56.12,2,0,21.32,4.718,Medium
+7,27-09-2014,Consumer,Office Supplies,Envelopes,56.12,2,0,21.32,4.108,Medium
+8,27-09-2014,Consumer,Technology,Machines,344.64,3,0,165.42,26.202,Medium
+9,27-09-2014,Consumer,Office Supplies,Supplies,97.36,4,0,19.44,6.863,Medium
+10,27-09-2014,Consumer,Technology,Accessories,341.52,2,0,13.64,17.341,Medium
+11,27-09-2014,Consumer,Office Supplies,Binders,12.06,3,0,3.48,1.134,Medium
+12,05-03-2014,Consumer,Office Supplies,Fasteners,20.76,3,0,9.54,1.649,Medium
+13,05-03-2014,Consumer,Furniture,Chairs,210.64,4,0,50.48,16.065,Medium
+14,24-09-2015,Home Office,Office Supplies,Envelopes,80.1,3,0,37.62,8.863,Low
+15,18-10-2015,Consumer,Office Supplies,Art,132.64,4,0,35.76,6.203,Medium
+16,18-10-2015,Consumer,Office Supplies,Fasteners,12.94,1,0,1.02,1.464,Medium
+17,26-06-2014,Corporate,Office Supplies,Envelopes,18.84,2,0.4,-6.6,1.602,Medium
+18,26-06-2014,Corporate,Furniture,Furnishings,308.28,7,0.4,-149.1,27.77,Medium
+19,26-06-2014,Corporate,Office Supplies,Envelopes,40.18,2,0.4,-6.06,2.137,Medium
+20,26-06-2014,Corporate,Office Supplies,Envelopes,8.78,3,0.4,-4.84,1.38,Medium
+21,19-12-2014,Corporate,Furniture,Chairs,273.47,4,0.2,95.71,48.165,Low
+22,29-10-2014,Consumer,Technology,Accessories,27,1,0,5.94,3.895,High
+23,29-10-2014,Consumer,Office Supplies,Supplies,207,9,0,66.24,37.857,High
+24,03-10-2015,Corporate,Office Supplies,Binders,60.66,3,0.4,-20.22,4,Medium
+25,26-09-2013,Consumer,Furniture,Furnishings,181.12,9,0.4,-75.56,1.085,Medium
+26,18-06-2015,Corporate,Technology,Copiers,326.19,2,0.002,64.71,16.777,Medium
+27,18-06-2015,Corporate,Office Supplies,Storage,80,5,0,34.4,5.084,Medium
+28,24-05-2014,Home Office,Office Supplies,Binders,141.29,7,0.4,-73.05,9.465,Medium
+29,24-05-2014,Home Office,Office Supplies,Fasteners,21.84,4,0.4,-3.28,1.091,Medium
+30,24-05-2014,Home Office,Technology,Phones,114.82,4,0.4,-49.82,5.923,Medium
+31,24-05-2014,Home Office,Office Supplies,Art,19.27,2,0.4,2.87,1.843,Medium
+32,24-05-2014,Home Office,Office Supplies,Appliances,152.28,5,0.4,-99.02,16.245,Medium
+33,24-05-2014,Home Office,Technology,Copiers,941.78,8,0.402,-601.74,80.281,Medium
+34,24-05-2014,Home Office,Office Supplies,Art,10.42,1,0.4,-0.7,1.931,Medium
+35,15-05-2015,Corporate,Office Supplies,Supplies,300.72,14,0,129.08,21.216,High
+36,15-05-2015,Corporate,Office Supplies,Supplies,138.18,7,0,53.76,19.543,High
+37,15-05-2015,Corporate,Office Supplies,Supplies,90.8,4,0,31.76,21.756,High
+38,04-07-2015,Corporate,Furniture,Tables,529.32,3,0,264.66,94.277,High
+39,04-07-2015,Corporate,Furniture,Bookcases,333.6,4,0,106.72,45.851,High
+40,04-07-2015,Corporate,Office Supplies,Fasteners,42.72,4,0,0.4,6.974,High
+41,09-12-2015,Corporate,Office Supplies,Supplies,62.4,3,0.2,8.58,15.739,Critical
+42,17-06-2014,Consumer,Technology,Phones,346.08,4,0,155.68,33.638,High
+43,29-10-2015,Consumer,Technology,Machines,414,2,0,45.52,21.914,Medium
+44,29-10-2015,Consumer,Office Supplies,Appliances,722.36,2,0,50.56,44.076,Medium
+45,29-10-2015,Consumer,Technology,Accessories,56.34,3,0,3.9,2.519,Medium
+46,16-01-2015,Home Office,Furniture,Chairs,168.96,3,0,40.5,55.024,Critical
+47,27-04-2013,Consumer,Office Supplies,Storage,125.44,5,0.2,-0.06,10.187,Medium
+48,27-04-2013,Consumer,Technology,Copiers,153.41,2,0.202,36.13,14.245,Medium
+49,11-06-2012,Consumer,Furniture,Furnishings,26.76,2,0,7.48,2.04,High
+50,06-05-2015,Corporate,Office Supplies,Fasteners,44.9,5,0,8.5,3.206,Medium
+51,12-10-2012,Corporate,Office Supplies,Supplies,66.88,4,0,28.72,3.356,Medium
+52,01-04-2012,Home Office,Technology,Copiers,230.67,3,0.402,-85.65,9.81,Medium
+53,01-04-2012,Home Office,Technology,Copiers,172.44,3,0.402,-3.48,5.57,Medium
+54,01-04-2012,Home Office,Office Supplies,Appliances,683.5,3,0.4,-79.76,50.128,Medium
+55,01-04-2012,Home Office,Office Supplies,Envelopes,27.72,2,0.4,4.12,1.597,Medium
+56,31-05-2014,Home Office,Office Supplies,Fasteners,21.84,3,0.2,3,1.892,Medium
+57,31-05-2014,Home Office,Furniture,Bookcases,200.54,4,0.4,-13.38,13.966,Medium
+58,16-05-2012,Consumer,Technology,Phones,2124.5,5,0,488.6,447.657,High
+59,23-08-2012,Consumer,Office Supplies,Art,22.72,3,0.4,-11.78,1.578,High
+60,11-10-2014,Home Office,Technology,Phones,391.32,9,0,144.72,28.183,Medium
+61,20-10-2012,Consumer,Office Supplies,Appliances,63.54,1,0,20.96,4.417,Medium
+62,16-05-2015,Corporate,Furniture,Bookcases,875.22,3,0,139.98,220.767,High
+63,26-08-2013,Consumer,Furniture,Bookcases,437.69,3,0.4,-248.05,83.77,Critical
+64,14-03-2015,Home Office,Office Supplies,Binders,68.6,2,0,26.72,14.015,High
+65,14-03-2015,Home Office,Office Supplies,Binders,48.7,5,0,17.5,9.931,High
+66,05-11-2013,Consumer,Furniture,Tables,132.11,2,0.7,-92.49,10.484,Medium
+67,30-05-2012,Corporate,Office Supplies,Paper,17.96,2,0,5.72,2.025,High
+68,30-05-2012,Corporate,Technology,Copiers,635.63,5,0.002,266.13,18.263,High
+69,23-07-2014,Consumer,Furniture,Bookcases,874.68,3,0,411.06,164.447,Low
+70,23-07-2014,Consumer,Furniture,Furnishings,75.96,6,0,37.92,10.098,Low
+71,12-09-2015,Corporate,Furniture,Tables,928.26,2,0.2,-81.22,75.005,Medium
+72,24-02-2012,Consumer,Technology,Machines,107.45,2,0.7,-121.79,7.317,Medium
+73,16-02-2013,Corporate,Office Supplies,Supplies,28.5,1,0,12.24,1.813,Medium
+74,16-02-2013,Corporate,Technology,Accessories,98,5,0,20.5,4.939,Medium
+75,16-02-2013,Corporate,Office Supplies,Binders,8.96,2,0,3.92,1.742,Medium
+76,16-02-2013,Corporate,Office Supplies,Envelopes,135.7,5,0,31.2,9.463,Medium
+77,25-06-2015,Consumer,Office Supplies,Supplies,18.53,2,0.4,-8.35,1.112,Medium
+78,25-06-2015,Consumer,Office Supplies,Storage,158.76,2,0.4,15.84,12.381,Medium
+79,25-06-2015,Consumer,Office Supplies,Supplies,121.72,7,0.4,-2.04,7.756,Medium
+80,12-06-2012,Consumer,Furniture,Furnishings,22.79,3,0.4,-0.79,1.356,Medium
+81,12-06-2012,Consumer,Furniture,Chairs,323.06,14,0.4,-124.1,4.365,Medium
+82,12-06-2012,Consumer,Technology,Accessories,137.52,3,0.4,-22.92,6.763,Medium
+83,12-06-2012,Consumer,Office Supplies,Art,39.54,5,0.4,-19.86,3.076,Medium
+84,25-06-2014,Consumer,Office Supplies,Storage,263.92,2,0,5.24,16.439,Medium
+85,25-06-2014,Consumer,Office Supplies,Supplies,144.3,5,0,36,7.596,Medium
+86,22-01-2015,Consumer,Office Supplies,Paper,36.72,3,0,10.26,2.694,Medium
+87,18-06-2015,Consumer,Office Supplies,Fasteners,76.96,8,0,9.92,10.711,High
+88,18-06-2015,Consumer,Furniture,Furnishings,39.02,2,0.4,-1.98,1.653,High
+89,28-12-2013,Consumer,Technology,Accessories,142.68,3,0,32.76,14.507,High
+90,28-12-2013,Consumer,Furniture,Bookcases,582,3,0.2,218.22,59.679,High
+91,28-12-2013,Consumer,Office Supplies,Binders,41.94,9,0,0,5.218,High
+92,28-12-2013,Consumer,Office Supplies,Envelopes,255,10,0,91.8,24.628,High
+93,23-04-2014,Corporate,Office Supplies,Paper,58.9,5,0,15.3,4.098,High
+94,23-04-2014,Corporate,Office Supplies,Envelopes,88.3,5,0,8.8,10.864,High
+95,23-04-2014,Corporate,Office Supplies,Fasteners,17.68,2,0,2.28,2.827,High
+96,18-04-2012,Consumer,Furniture,Bookcases,575.96,7,0,120.82,55.573,Low
+97,18-04-2012,Consumer,Technology,Accessories,55.36,2,0,1.64,7.18,Low
+98,20-10-2012,Corporate,Office Supplies,Storage,96,3,0,4.8,5.685,Medium
+99,08-08-2014,Consumer,Furniture,Chairs,92.3,3,0.2,-3.52,28.025,Critical
+100,08-08-2014,Consumer,Office Supplies,Paper,84.96,6,0.2,-5.4,18.581,Critical
+101,13-12-2014,Consumer,Technology,Accessories,494.64,3,0,197.82,9.001,Medium
+102,04-12-2014,Home Office,Office Supplies,Fasteners,39.4,5,0,5.1,3.461,Medium
+103,04-11-2014,Consumer,Furniture,Chairs,244.56,5,0.2,-27.54,27.264,Low
+104,04-11-2014,Consumer,Office Supplies,Art,16.48,2,0,2.28,2.128,Low
+105,30-11-2014,Consumer,Office Supplies,Envelopes,5.68,1,0,2.26,1.627,High
+106,10-10-2013,Consumer,Furniture,Chairs,266.54,9,0.2,6.62,29.587,Medium
+107,26-09-2012,Home Office,Office Supplies,Paper,77.28,3,0.2,-1.02,5.989,Medium
+108,08-06-2015,Corporate,Office Supplies,Art,16.08,4,0.4,-5.36,2.223,High
+109,08-06-2015,Corporate,Office Supplies,Paper,11.17,1,0.4,-0.19,1.71,High
+110,04-09-2014,Corporate,Technology,Accessories,48.16,2,0,13.48,12.209,High
+111,15-08-2015,Home Office,Technology,Phones,465,5,0,27.9,55.555,Low
+112,08-11-2013,Home Office,Office Supplies,Supplies,46.1,5,0,10.1,4.027,Medium
+113,16-09-2014,Consumer,Office Supplies,Paper,66.95,7,0.4,-16.77,5.729,Medium
+114,16-09-2014,Consumer,Office Supplies,Paper,65.23,9,0.4,8.53,6.273,Medium
+115,16-09-2014,Consumer,Office Supplies,Storage,409.26,5,0.4,20.46,28.996,Medium
+116,24-02-2015,Consumer,Office Supplies,Fasteners,27.76,5,0.2,1.36,1.61,Medium
+117,28-11-2015,Consumer,Technology,Phones,461.9,5,0,101.6,78.476,Medium
+118,14-08-2014,Consumer,Office Supplies,Appliances,1052.16,3,0,0,166.26,High
+119,14-08-2014,Consumer,Office Supplies,Envelopes,184.66,7,0,33.18,23.336,High
+120,14-08-2014,Consumer,Office Supplies,Fasteners,33.6,3,0,9.72,1.289,High
+121,14-03-2013,Home Office,Office Supplies,Envelopes,101.94,5,0.4,-52.76,7.315,Medium
+122,19-03-2013,Home Office,Office Supplies,Art,73.1,4,0.4,-1.3,6.416,Medium
+123,28-12-2012,Consumer,Furniture,Bookcases,273.12,4,0.4,-95.6,16.47,High
+124,28-12-2012,Consumer,Technology,Machines,105.96,2,0.7,-127.16,11.695,High
+125,04-06-2015,Consumer,Furniture,Chairs,145.1,5,0,63.8,28.481,Medium
+126,04-06-2015,Consumer,Technology,Copiers,191.86,2,0.002,74.58,32.388,Medium
+127,04-06-2015,Consumer,Office Supplies,Envelopes,199.2,8,0,63.68,30.212,Medium
+128,04-06-2015,Consumer,Furniture,Chairs,191.2,2,0,38.24,6.467,Medium
+129,04-06-2015,Consumer,Office Supplies,Art,107.82,3,0,51.72,10.823,Medium
+130,04-01-2012,Home Office,Office Supplies,Envelopes,185.76,6,0,3.6,16.394,Medium
+131,25-12-2015,Corporate,Office Supplies,Paper,47.4,3,0,22.26,4.391,Medium
+132,14-11-2014,Consumer,Furniture,Bookcases,966.4,5,0.2,-96.7,72.519,Medium
+133,29-09-2015,Home Office,Office Supplies,Fasteners,14.14,2,0.2,-1.26,1.886,Medium
+134,29-09-2015,Home Office,Office Supplies,Binders,5.55,1,0.2,-0.77,1.178,Medium
+135,29-10-2015,Corporate,Office Supplies,Labels,13.32,5,0.4,0.42,1.105,Medium
+136,29-10-2015,Corporate,Office Supplies,Appliances,373.28,3,0.4,49.76,30.005,Medium
+137,29-10-2015,Corporate,Office Supplies,Binders,5.6,1,0.7,-13.06,1.403,Medium
+138,10-03-2013,Consumer,Office Supplies,Art,81.82,7,0.4,-1.48,14.127,Medium
+139,22-05-2012,Consumer,Technology,Machines,464.64,4,0,171.84,8.222,Medium
+140,15-10-2014,Consumer,Technology,Machines,347.88,3,0,121.74,26.997,Medium
+141,15-10-2014,Consumer,Office Supplies,Binders,29.04,3,0,1.98,2.192,Medium
+142,06-05-2013,Corporate,Technology,Copiers,349.02,2,0.002,65.74,22.535,Medium
+143,06-05-2013,Corporate,Office Supplies,Labels,23.46,3,0,9.36,1.285,Medium
+144,06-05-2013,Corporate,Office Supplies,Envelopes,70.64,4,0,7.04,5.457,Medium
+145,07-06-2012,Corporate,Technology,Accessories,179.52,3,0.2,40.38,7.14,Medium
+146,07-06-2012,Corporate,Office Supplies,Fasteners,17.86,2,0.2,-2.7,1.51,Medium
+147,21-07-2013,Consumer,Office Supplies,Storage,218.21,4,0.4,-127.31,25.065,Medium
+148,21-07-2013,Consumer,Office Supplies,Labels,6.77,2,0.4,-2.03,1.815,Medium
+149,21-07-2013,Consumer,Technology,Copiers,422.76,4,0.402,-178.2,29.385,Medium
+150,21-07-2013,Consumer,Technology,Accessories,57.38,3,0.4,5.72,2.379,Medium
+151,19-10-2014,Home Office,Furniture,Chairs,195.78,3,0,9.78,17.895,Medium
+152,19-10-2014,Home Office,Office Supplies,Binders,19.3,5,0,7.1,2.012,Medium
+153,19-10-2014,Home Office,Furniture,Chairs,193.1,5,0,79.1,2.876,Medium
+154,06-07-2013,Corporate,Office Supplies,Binders,80.74,3,0.2,-11.12,8.699,Low
+155,13-07-2012,Corporate,Office Supplies,Supplies,103.08,3,0,26.76,7.875,Medium
+156,08-11-2013,Consumer,Furniture,Furnishings,58.7,5,0,9.3,5.01,Medium
+157,08-11-2013,Consumer,Office Supplies,Paper,105.06,3,0,36.72,9.517,Medium
+158,03-11-2013,Consumer,Office Supplies,Paper,37,2,0,3.68,5.055,Medium
+159,03-11-2013,Consumer,Office Supplies,Binders,13.62,3,0,6.48,2.39,Medium
+160,18-12-2015,Corporate,Office Supplies,Art,168.4,5,0,3.3,24.441,High
+161,18-12-2015,Corporate,Office Supplies,Envelopes,152.64,6,0,35.04,31.558,High
+162,11-07-2013,Home Office,Office Supplies,Storage,255.22,7,0,99.4,75.07,Critical
+163,11-07-2013,Home Office,Office Supplies,Art,210.48,6,0,75.72,79.432,Critical
+164,24-07-2015,Consumer,Office Supplies,Appliances,362.95,3,0.4,-60.53,30.049,Medium
+165,23-11-2013,Corporate,Furniture,Bookcases,836.93,4,0.2,230.13,239.217,High
+166,31-07-2013,Home Office,Furniture,Chairs,326.3,5,0,16.3,26.909,Medium
+167,31-07-2013,Home Office,Furniture,Chairs,277.6,5,0,2.7,17.623,Medium
+168,20-11-2014,Consumer,Furniture,Chairs,30.82,1,0.2,9.62,2.872,Medium
+169,26-12-2014,Corporate,Office Supplies,Paper,10.51,1,0.4,-2.81,3.155,Critical
+170,06-12-2014,Consumer,Furniture,Chairs,731.42,3,0.2,118.82,54.037,Medium
+171,20-07-2012,Consumer,Furniture,Bookcases,650.88,8,0,32.48,49.413,Medium
+172,22-03-2014,Consumer,Office Supplies,Binders,10.72,2,0,4.48,1.42,Low
+173,22-03-2014,Consumer,Technology,Copiers,342.51,4,0.002,61.07,44.541,Low
+174,22-03-2014,Consumer,Office Supplies,Appliances,46.98,1,0,9.86,3.414,Low
+175,22-03-2014,Consumer,Technology,Accessories,56.2,2,0,15.16,2.994,Low
+176,18-11-2014,Corporate,Office Supplies,Binders,165.9,5,0,19.9,18.483,High
+177,18-11-2014,Corporate,Office Supplies,Envelopes,12.8,2,0,4.96,1.907,High
+178,18-11-2014,Corporate,Office Supplies,Paper,119.04,6,0,1.08,11.432,High
+179,24-06-2014,Corporate,Furniture,Bookcases,494.8,5,0,113.8,28.907,Medium
+180,24-06-2014,Corporate,Office Supplies,Appliances,1111.56,6,0,200.04,115.526,Medium
+181,24-06-2014,Corporate,Technology,Accessories,370.4,10,0,55.4,32.328,Medium
+182,24-06-2014,Corporate,Furniture,Bookcases,394.2,3,0,90.66,37.296,Medium
+183,24-06-2014,Corporate,Office Supplies,Storage,14.4,2,0,3.28,1.162,Medium
+184,12-11-2013,Corporate,Office Supplies,Paper,61.38,5,0.4,-37.92,9.518,High
+185,16-10-2015,Consumer,Technology,Phones,141.89,4,0.2,19.49,4.893,Medium
+186,20-12-2014,Consumer,Office Supplies,Envelopes,74.34,3,0,17.82,12.458,Medium
+187,20-12-2014,Consumer,Furniture,Chairs,121.58,1,0,15.8,2.52,Medium
+188,20-12-2014,Consumer,Technology,Copiers,159.68,2,0.002,70.08,21.107,Medium
+189,20-12-2014,Consumer,Furniture,Tables,1480.37,3,0.2,333.05,283.928,Medium
+190,20-12-2014,Consumer,Furniture,Tables,982.91,2,0.2,-12.29,77.857,Medium
+191,20-12-2014,Consumer,Technology,Phones,346.74,3,0,100.5,70.849,Medium
+192,20-12-2014,Consumer,Technology,Accessories,19.74,1,0,9.66,3.714,Medium
+193,19-11-2015,Consumer,Office Supplies,Envelopes,58.3,5,0,15.1,1.855,Medium
+194,14-02-2013,Home Office,Office Supplies,Envelopes,129.76,4,0,42.8,16.642,Medium
+195,24-07-2013,Corporate,Office Supplies,Labels,5.24,1,0.4,-2.46,2.043,High
+196,02-07-2015,Corporate,Furniture,Chairs,89.25,2,0.2,6.69,12.848,High
+197,28-11-2012,Corporate,Office Supplies,Labels,6.6,2,0.4,-0.68,1.858,High
+198,28-11-2012,Corporate,Office Supplies,Envelopes,101.81,14,0.4,-49.39,14.24,High
+199,15-11-2014,Home Office,Office Supplies,Labels,16.42,3,0.2,-1.28,1.691,Medium
+200,15-11-2014,Home Office,Office Supplies,Supplies,63.36,9,0.2,1.44,4.882,Medium
+201,15-11-2014,Home Office,Office Supplies,Fasteners,9.38,2,0.2,2.78,1.835,Medium
+202,15-11-2014,Home Office,Office Supplies,Envelopes,33.44,5,0.2,-4.66,1.887,Medium
+203,09-10-2015,Corporate,Office Supplies,Storage,256.74,3,0,0,26.588,Low
+204,02-12-2015,Consumer,Office Supplies,Paper,118.8,9,0,56.88,8.368,Medium
+205,19-09-2014,Consumer,Furniture,Chairs,80.11,2,0.4,9.31,3.147,Medium
+206,19-09-2014,Consumer,Office Supplies,Storage,107.3,2,0.4,-64.42,13.208,Medium
+207,19-09-2014,Consumer,Office Supplies,Art,30.24,5,0.4,-0.56,3.326,Medium
+208,01-04-2015,Consumer,Furniture,Chairs,67.78,2,0.4,-44.06,8.765,Critical
+209,01-04-2015,Consumer,Office Supplies,Binders,63.5,6,0.7,-146.14,12.792,Critical
+210,01-04-2015,Consumer,Office Supplies,Envelopes,24.02,2,0.4,3.18,6.738,Critical
+211,01-04-2015,Consumer,Office Supplies,Binders,2.32,2,0.7,-2.56,1.349,Critical
+212,01-04-2015,Consumer,Office Supplies,Fasteners,8.18,2,0.4,-2.06,2.47,Critical
+213,01-04-2015,Consumer,Office Supplies,Envelopes,198.53,11,0.4,-23.23,42.666,Critical
+214,15-06-2012,Consumer,Furniture,Chairs,738.29,3,0.2,-166.15,14.598,Medium
+215,28-10-2015,Consumer,Office Supplies,Binders,8.6,2,0,3.6,1.822,Medium
+216,27-12-2012,Corporate,Technology,Phones,88.1,2,0.2,-14.34,12.498,Critical
+217,27-12-2012,Corporate,Furniture,Chairs,276.91,9,0.2,-10.55,44.9,Critical
+218,27-12-2012,Corporate,Technology,Accessories,110.72,5,0.2,-23.58,35.125,Critical
+219,27-12-2012,Corporate,Technology,Phones,538.24,8,0.2,-107.68,103.124,Critical
+220,27-12-2012,Corporate,Technology,Phones,1696.64,5,0.2,-148.46,704.056,Critical
+221,04-12-2013,Corporate,Office Supplies,Storage,142.08,4,0,7.04,11.422,Medium
+222,04-12-2013,Corporate,Office Supplies,Appliances,818.08,4,0,8.16,77.98,Medium
+223,04-12-2013,Corporate,Office Supplies,Labels,17.76,3,0,0.12,1.528,Medium
+224,04-12-2013,Corporate,Office Supplies,Appliances,723.12,2,0,86.76,104.495,Medium
+225,04-12-2013,Corporate,Office Supplies,Storage,123.2,7,0,31.92,6.315,Medium
+226,04-12-2013,Corporate,Technology,Copiers,519.94,3,0.002,217.72,31.416,Medium
+227,07-12-2012,Corporate,Furniture,Chairs,688.32,9,0.2,0,44.499,Medium
+228,23-12-2015,Consumer,Office Supplies,Envelopes,86.7,5,0,35.5,8.429,Medium
+229,07-10-2015,Home Office,Furniture,Bookcases,398.52,3,0,191.28,35.208,High
+230,21-07-2015,Consumer,Office Supplies,Paper,29.88,2,0,13.44,7.823,Critical
+231,21-07-2015,Consumer,Office Supplies,Art,63.48,2,0,30.44,16.336,Critical
+232,21-07-2015,Consumer,Furniture,Chairs,1219.04,5,0.2,198.04,185.44,Critical
+233,21-07-2015,Consumer,Technology,Copiers,176.39,1,0.002,26.15,39.431,Critical
+234,21-07-2015,Consumer,Furniture,Chairs,229.06,3,0.2,8.56,88.448,Critical
+235,28-05-2014,Consumer,Office Supplies,Binders,113.04,6,0,40.68,28.92,Critical
+236,28-05-2014,Consumer,Furniture,Furnishings,50.4,3,0,4.02,17.719,Critical
+237,07-05-2015,Corporate,Furniture,Bookcases,549.52,2,0,109.88,31.647,Medium
+238,14-09-2013,Consumer,Office Supplies,Appliances,2278.32,6,0,751.8,138.706,Medium
+239,03-04-2014,Consumer,Furniture,Bookcases,1098.96,5,0.2,233.46,66.627,High
+240,03-04-2014,Consumer,Office Supplies,Binders,58.98,3,0,25.32,3.067,High
+241,26-02-2012,Corporate,Technology,Phones,177.36,4,0,54.96,9.279,Medium
+242,26-02-2012,Corporate,Technology,Accessories,51.96,3,0,18.66,3.675,Medium
+243,26-02-2012,Corporate,Furniture,Chairs,360.24,3,0,104.46,27.399,Medium
+244,26-02-2012,Corporate,Office Supplies,Supplies,55.04,2,0,1.64,4.857,Medium
+245,12-03-2015,Corporate,Office Supplies,Labels,22.2,5,0,9.3,1.743,Medium
+246,12-03-2015,Corporate,Office Supplies,Supplies,44,4,0,3.52,2.803,Medium
+247,15-08-2012,Corporate,Technology,Phones,226.12,2,0,97.2,38.427,High
+248,15-08-2012,Corporate,Technology,Accessories,158,4,0,20.48,19.884,High
+249,10-11-2015,Corporate,Office Supplies,Art,41.2,5,0,5.7,4.462,High
+250,10-11-2015,Corporate,Office Supplies,Binders,43.7,5,0,12.2,5.967,High
+251,24-05-2013,Consumer,Furniture,Furnishings,63.65,3,0.4,8.45,3.545,Medium
+252,30-01-2014,Consumer,Furniture,Bookcases,249.72,5,0.4,-33.38,25.606,Medium
+253,30-01-2014,Consumer,Office Supplies,Labels,9.14,2,0.4,-0.18,1.082,Medium
+254,30-01-2014,Consumer,Office Supplies,Labels,9.74,4,0.4,-0.66,1.938,Medium
+255,26-09-2015,Corporate,Office Supplies,Storage,188.84,2,0,41.52,16.687,High
+256,03-08-2013,Consumer,Office Supplies,Paper,119.64,6,0,31.08,8.018,High
+257,03-08-2013,Consumer,Technology,Copiers,161.6,2,0.002,30.44,23.556,High
+258,22-05-2013,Consumer,Office Supplies,Labels,51.8,7,0,0,2.505,Medium
+259,20-06-2012,Home Office,Furniture,Bookcases,264.51,4,0.2,13.15,27.225,Medium
+260,20-06-2012,Home Office,Technology,Accessories,51.08,2,0,14.28,5.309,Medium
+261,20-06-2012,Home Office,Technology,Accessories,110.64,2,0,37.6,6.618,Medium
+262,18-11-2013,Consumer,Furniture,Chairs,118.8,3,0.2,14.82,14.31,High
+263,04-07-2014,Home Office,Office Supplies,Paper,123.48,7,0,41.86,9.348,High
+264,31-10-2014,Consumer,Technology,Phones,246.48,5,0.4,-37.02,16.966,Medium
+265,12-08-2014,Consumer,Furniture,Tables,285.38,1,0.2,-17.84,13.297,Medium
+266,12-10-2013,Consumer,Office Supplies,Art,17.64,2,0,0.32,1.263,Medium
+267,20-12-2013,Consumer,Office Supplies,Envelopes,77.1,3,0,20.04,5.384,Medium
+268,21-07-2015,Corporate,Furniture,Chairs,607.36,2,0,133.6,1.875,Medium
+269,21-07-2015,Corporate,Office Supplies,Envelopes,92.4,4,0,45.2,6.856,Medium
+270,21-07-2015,Corporate,Office Supplies,Fasteners,26.82,3,0,0.24,3.472,Medium
+271,02-04-2015,Consumer,Office Supplies,Binders,3.43,2,0.7,-4.93,1.604,Low
+272,02-04-2015,Consumer,Office Supplies,Storage,43.37,2,0.4,-22.43,2.97,Low
+273,21-11-2015,Corporate,Office Supplies,Fasteners,53.7,5,0,14.4,5.677,Medium
+274,03-09-2015,Consumer,Office Supplies,Binders,102.84,5,0.4,-3.46,18.486,High
+275,03-09-2015,Consumer,Office Supplies,Supplies,29.02,2,0.4,-6.3,4.888,High
+276,20-04-2012,Consumer,Furniture,Chairs,551.56,3,0.4,-101.12,52.262,Low
+277,05-09-2014,Home Office,Office Supplies,Storage,105.12,8,0,8.32,6.037,Medium
+278,05-09-2014,Home Office,Office Supplies,Art,126.96,4,0,60.88,5.575,Medium
+279,06-10-2012,Home Office,Office Supplies,Art,32.68,2,0,6.2,5.493,High
+280,04-07-2013,Consumer,Technology,Phones,3408,8,0,238.56,41.893,Medium
+281,20-11-2015,Home Office,Furniture,Furnishings,14.95,3,0.6,-22.43,1.246,Medium
+282,13-09-2015,Home Office,Furniture,Chairs,90.3,3,0,3.6,9.522,High
+283,26-11-2013,Consumer,Office Supplies,Supplies,137.44,4,0,35.68,10.838,Medium
+284,17-04-2015,Corporate,Office Supplies,Storage,31.54,6,0.6,-41.06,2.861,Medium
+285,21-01-2014,Consumer,Office Supplies,Storage,64,2,0,3.2,5.361,Medium
+286,21-01-2014,Consumer,Furniture,Bookcases,318.82,3,0.2,111.58,29.282,Medium
+287,21-01-2014,Consumer,Technology,Phones,333.96,3,0,13.32,37.049,Medium
+288,21-01-2014,Consumer,Furniture,Tables,1022.53,4,0.2,332.29,105.029,Medium
+289,29-01-2012,Consumer,Furniture,Tables,369.47,2,0.7,-591.17,18.728,Medium
+290,23-03-2014,Consumer,Office Supplies,Labels,15.24,2,0,5.92,2.371,Medium
+291,23-03-2014,Consumer,Technology,Phones,161.1,3,0,66,9.453,Medium
+292,11-04-2014,Corporate,Technology,Phones,161.1,5,0.4,2.6,5.024,Medium
+293,18-02-2014,Consumer,Furniture,Tables,1970.5,4,0.2,49.22,116.237,Medium
+294,02-09-2014,Consumer,Office Supplies,Paper,130.56,6,0,31.32,6.341,Medium
+295,04-04-2013,Consumer,Technology,Copiers,701.47,4,0.002,300.75,177.044,High
+296,04-04-2013,Consumer,Office Supplies,Labels,18.54,3,0,2.94,1.654,High
+297,04-04-2013,Consumer,Office Supplies,Envelopes,15.7,1,0,2.98,1.734,High
+298,09-02-2013,Home Office,Furniture,Chairs,123.24,3,0,33.24,11.524,Medium
+299,04-11-2014,Corporate,Furniture,Bookcases,99.53,2,0.4,13.25,8.913,High
+300,10-12-2014,Consumer,Technology,Accessories,413.52,10,0.4,-89.68,69.991,High
+301,31-10-2013,Corporate,Office Supplies,Fasteners,23.3,8,0.6,-7.58,1.062,Medium
+302,31-10-2013,Corporate,Office Supplies,Paper,18.04,5,0.6,-5.46,1.161,Medium
+303,16-10-2015,Consumer,Office Supplies,Paper,98.22,3,0,35.34,5.332,Medium
+304,16-10-2015,Consumer,Office Supplies,Storage,46.44,3,0,18.54,5.373,Medium
+305,01-11-2015,Consumer,Technology,Accessories,69.18,1,0,21.44,5.6,Medium
+306,01-11-2015,Consumer,Office Supplies,Envelopes,65.84,4,0,15.12,2.861,Medium
+307,26-06-2014,Corporate,Furniture,Chairs,180.6,6,0,7.2,16.852,Medium
+308,26-06-2014,Corporate,Furniture,Bookcases,199.28,2,0,89.64,24.536,Medium
+309,13-09-2012,Corporate,Furniture,Chairs,96.06,1,0.2,10.8,12.653,Low
+310,13-09-2012,Corporate,Office Supplies,Binders,116.64,6,0,0,12.443,Low
+311,13-09-2012,Corporate,Office Supplies,Storage,32.3,1,0,13.88,4.388,Low
+312,13-09-2012,Corporate,Office Supplies,Storage,267.96,7,0,15.96,22.523,Low
+313,26-09-2015,Consumer,Office Supplies,Envelopes,28.58,6,0.4,-12.94,1.67,Medium
+314,26-09-2015,Consumer,Office Supplies,Binders,40.87,2,0.4,-26.57,3.798,Medium
+315,26-09-2015,Consumer,Office Supplies,Appliances,82.55,3,0.4,-27.55,7.342,Medium
+316,26-09-2015,Consumer,Office Supplies,Fasteners,21.46,4,0.4,-13.98,1.553,Medium
+317,28-10-2015,Home Office,Technology,Machines,1600.96,8,0,368.16,58.463,High
+318,28-10-2015,Home Office,Office Supplies,Appliances,303.3,5,0,42.4,8.475,High
+319,28-10-2015,Home Office,Office Supplies,Supplies,53.7,5,0,13.4,15.738,High
+320,17-04-2013,Home Office,Office Supplies,Paper,60.96,5,0.4,-38.64,4.648,High
+321,22-06-2012,Consumer,Office Supplies,Supplies,53.82,5,0.4,-3.68,3.835,Medium
+322,08-12-2015,Corporate,Office Supplies,Art,34.92,3,0,7.32,3.552,Medium
+323,24-07-2015,Home Office,Office Supplies,Labels,37.9,5,0,2.6,1.526,Medium
+324,14-11-2012,Corporate,Office Supplies,Binders,15.9,3,0,3.48,1.861,Medium
+325,14-11-2012,Corporate,Office Supplies,Binders,5.32,2,0,1.8,1.175,Medium
+326,14-11-2012,Corporate,Office Supplies,Storage,77.16,2,0,34.72,5.56,Medium
+327,28-12-2015,Consumer,Technology,Accessories,31.85,2,0.4,-6.39,1.109,Medium
+328,04-06-2014,Consumer,Office Supplies,Binders,8.6,2,0,3.6,1.588,Medium
+329,04-06-2014,Consumer,Office Supplies,Storage,128,4,0,6.4,10.808,Medium
+330,04-06-2014,Consumer,Office Supplies,Storage,89.16,6,0,31.2,4.552,Medium
+331,16-03-2013,Home Office,Office Supplies,Fasteners,30.14,4,0.4,-9.06,4.087,High
+332,17-10-2012,Corporate,Office Supplies,Binders,76.68,9,0,34.38,6.46,Medium
+333,17-10-2012,Corporate,Office Supplies,Paper,65.48,2,0,23.56,2.44,Medium
+334,16-07-2015,Consumer,Technology,Copiers,718.98,3,0.002,99.36,19.09,High
+335,05-11-2014,Consumer,Office Supplies,Envelopes,295.92,9,0,133.02,25.606,Medium
+336,23-10-2014,Corporate,Furniture,Chairs,65.14,2,0.4,-21.74,8.623,High
+337,23-10-2014,Corporate,Furniture,Furnishings,177.89,4,0.4,-38.59,15.085,High
+338,25-07-2014,Corporate,Technology,Copiers,238.48,5,0.402,-24.82,59.649,High
+339,03-05-2014,Corporate,Office Supplies,Fasteners,14.76,2,0,3.36,1.213,Medium
+340,03-05-2014,Corporate,Furniture,Bookcases,225.6,2,0,42.84,22.153,Medium
+341,03-05-2014,Corporate,Technology,Phones,259.74,3,0,20.76,16.554,Medium
+342,23-12-2012,Home Office,Office Supplies,Binders,13.44,2,0,2.4,1.801,Medium
+343,16-03-2013,Corporate,Technology,Accessories,75.8,2,0,11.36,4.298,Medium
+344,16-03-2013,Corporate,Furniture,Chairs,231.9,5,0,39.4,10.762,Medium
+345,16-03-2013,Corporate,Furniture,Tables,1454.83,3,0.2,-54.59,84.238,Medium
+346,29-12-2015,Corporate,Office Supplies,Fasteners,54.48,6,0,10.32,2.958,Medium
+347,29-12-2015,Corporate,Office Supplies,Envelopes,328.8,10,0,147.8,58.451,Medium
+348,13-09-2012,Corporate,Technology,Accessories,723.32,7,0.4,-277.4,40.391,Medium
+349,13-09-2012,Corporate,Office Supplies,Appliances,198.43,1,0.4,9.91,18.282,Medium
+350,02-03-2013,Consumer,Office Supplies,Labels,21.54,3,0,10.5,1.704,Medium
